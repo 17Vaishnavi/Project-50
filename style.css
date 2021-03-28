@@ -1,0 +1,93 @@
+
+
+
+.header {
+   
+    color: #efeff7;
+    background-color: #1a1717;
+    text-align: center;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+.camel {
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 800px;
+    height: 900px;
+    padding: 50px;
+    background-color: rgb(207, 204, 14);
+}
+
+.chameleon {
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 800px;
+    height: 850px;
+    padding: 50px;
+    background-color: rgb(39, 192, 47);
+}
+
+.pigeon {
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 800px;
+    height: 1050px;
+    padding: 50px;
+    background-color: rgb(63, 177, 223);
+}    
+
+.teddy-bear {
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 800px;
+    height: 850px;
+    padding: 50px;
+    background-color: rgb(199, 190, 146);
+}
+
+.panda {
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 800px;
+    height: 900px;
+    padding: 50px;
+    background-color: rgb(95, 95, 102);
+}
+
+.flying-cicada {
+   
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 800px;
+    height: 750px;
+    padding: 50px;
+    background-color: rgb(199, 190, 146);
+}
+
+body {
+    
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: medium;
+}
+
+
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
